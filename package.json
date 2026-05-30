@@ -1,0 +1,19 @@
+{
+  "name": "road-sos",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "build": "echo 'No frontend build yet'"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.42",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^8.5.2",
+    "groq-sdk": "^0.3.3",
+    "helmet": "^8.2.0",
+    "twilio": "^5.0.4"
+  }
+}
