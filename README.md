@@ -1,4 +1,4 @@
-# 🚨 RoadSoS — Road Safety AI Emergency Response System
+#  RoadSoS — Road Safety AI Emergency Response System
 
 > **Minimize the golden hour delay. Connect victims to help in seconds.**
 
@@ -6,7 +6,7 @@ Built for the **CoERS IIT Madras Hackathon 2026** · Submission Deadline: May 20
 
 ---
 
-## 🧠 What is RoadSoS?
+##  What is RoadSoS?
 
 RoadSoS is a location-aware emergency response web application that bridges the critical gap between a road accident and the arrival of professional help. When every second counts, RoadSoS:
 
@@ -16,18 +16,18 @@ RoadSoS is a location-aware emergency response web application that bridges the 
 
 ---
 
-## ⚡ Core Features
+##  Core Features
 
 | Feature | Description | Tech |
 |---|---|---|
-| 📍 Live GPS Capture | Instant hardware-level coordinates | HTML5 Geolocation API |
-| 🏥 Multi-Agency Search | Parallel radius-based search across trauma centers, ambulances & police | Google Places API |
-| 📲 Automated SOS Dispatch | One-click SMS with live Maps link to emergency contacts | Twilio API |
-| 🤖 First-Aid AI Terminal | Zero-fluff, 3-step trauma stabilization instructions | Groq API (Llama 3.1 8B) |
+|  Live GPS Capture | Instant hardware-level coordinates | HTML5 Geolocation API |
+|  Multi-Agency Search | Parallel radius-based search across trauma centers, ambulances & police | Google Places API |
+|  Automated SOS Dispatch | One-click SMS with live Maps link to emergency contacts | Twilio API |
+|  First-Aid AI Terminal | Zero-fluff, 3-step trauma stabilization instructions | Groq API (Llama 3.1 8B) |
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 roadsos/
@@ -206,7 +206,6 @@ vite
 **Event**: CoERS National Road Safety Hackathon 2026  
 **Host**: IIT Madras  
 **Problem Statement**: Reduce golden hour fatality rates through technology  
-**Team**: [Your team name]
 
 ---
 
